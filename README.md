@@ -1,4 +1,4 @@
-[![MasterHead](https://retool-blog.ghost.io/blog/content/images/2022/02/gotchas-git-github-banner-1.png)]
+![MasterHead](https://retool-blog.ghost.io/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 <h1 align="center">Hi 👋, I'm Deep Gaonkar</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
